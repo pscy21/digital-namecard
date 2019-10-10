@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Lau;Karen;;;
+FN: Karen Lau 
+ORG:Chow Tai Fook Jewellery Group;
+TITLE:Manager\nCompany Secretary, Finance & Governance Centre
+EMAIL;type=INTERNET;type=WORK;type=pref:karenliu@chowtaifook.com
+TEL;type=WORK;type=VOICE:+852 2138 8536
+item1.ADR;type=WORK;type=pref:;;33/F\,New World Tower\n16-18 Queen's Road Central\n Hong Kong
+item1.X-ABADR:hk
+item2.URL;type=pref:ctfjewellerygroup.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
